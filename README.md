@@ -1,1 +1,1 @@
-Made for buildit hackathon
+Made for MIH 2026 hackathon
